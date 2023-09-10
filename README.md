@@ -1,5 +1,5 @@
 # Log Analytics Project - Memory-Efficient Log Analytics
-Overview
+### Overview
 This project is a result of my participation in an intern hackathon (Appian Intern Hackathon Summer'23) where I developed a memory-efficient log analytics solution. The project leverages algorithms and data structures like dynamic programming and prefix trees to efficiently handle large volumes of log data while minimizing memory consumption. This innovative approach earned the project first place in the hackathon, demonstrating its effectiveness and potential impact in the field of log analytics.
 
 ### Key Features
